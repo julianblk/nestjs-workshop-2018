@@ -36,7 +36,10 @@
   "dependencies": {
     "@nestjs/common": "^5.3.7",
     "@nestjs/core": "^5.3.7",
+    "@nestjs/mongoose": "^5.2.2",
     "express": "^4.16.3",
+    "mongo-in-memory": "0.0.5",
+    "mongoose": "^5.2.15",
     "reflect-metadata": "^0.1.12",
     "rxjs": "^6.3.2"
   }
